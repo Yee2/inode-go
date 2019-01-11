@@ -1,0 +1,1 @@
+CGO_ENABLED=1 GOARCH=mips GOOS=linux go build
